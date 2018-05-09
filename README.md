@@ -1,8 +1,12 @@
-NB: You might find useful the [sample proposal](https://github.com/zamfi/cca-programming-electronics-fall-2017/blob/master/hw/sample-proposal.md) useful in completing this assignment!
+NB: You might find useful the [sample proposal](http://github.com/zamfi/ucb-jacobs-creative-programming-electronics-spring-2018/blob/master/hw/sample-proposal.md) useful in completing this assignment!
 
 # Your Project Title Here
 
 One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
+
+## Team
+
+A list of your team members here.
 
 ## Summary
 
@@ -35,5 +39,7 @@ What did you do in each of the past five weeks?
 Photos and videos of your completed final project!
 
 ## References and links
+
+**Include a link to your final showcase one-pager here in PDF formaet.**
 
 Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
