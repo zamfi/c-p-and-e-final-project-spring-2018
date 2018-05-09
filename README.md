@@ -40,6 +40,6 @@ Photos and videos of your completed final project!
 
 ## References and links
 
-**Include a link to your final showcase one-pager here in PDF formaet.**
+**Include a link to your final showcase one-pager here in PDF format.**
 
 Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
