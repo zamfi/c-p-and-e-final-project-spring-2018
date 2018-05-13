@@ -18,6 +18,10 @@ On the hardware side, we built the structure of the vehicle with an acrylic foun
 
 To control the entire vehicle we used a raspberry pi. Giving signals to the raspberry pi (input) to move left and right was the controller that gave out signal (output). Additionally, the RC car was connected to the remote via a bluetooth connection between the raspberry pi and the remote. The servos received commands from the raspberry pi (input) which received its commands from the controller (output).The entire vehicle was powered by 8, 1.5v batteries (output)
 
+## Diagram 
+https://github.com/timmy851/Images_and_diagrams.git
+https://github.com/timmy851/Images_and_diagrams/blob/master/IMG_3394.JPG
+
 
 ## Challenges
 
@@ -42,9 +46,13 @@ What did you do in each of the past five weeks?
 ## Completed Work
 
 Photos and videos of your completed final project!
+https://github.com/timmy851/Images_and_diagrams.git
 
 ## References and links
 
 **Include a link to your final showcase one-pager here in PDF format.**
 
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+https://github.com/timmy851/Images_and_diagrams.git
+https://github.com/timmy851/Images_and_diagrams/blob/master/The%20RC%20Bull%20(1).pdf
+
+
