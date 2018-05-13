@@ -22,7 +22,12 @@ Include what types of inputs/outputs/data it will use, and a block diagram showi
 
 ## Challenges
 
-A brief discussion of what was hard, challenging, or unexpected about your project.
+Working with different hardware parts, the greatest challenge we knew we were going to face was compatibility. The raspberry pi gave us some trouble when connecting to the remote control through bluetooth. It took a lot of trial and error to get that signal to work properly. 
+
+Addtioanlly, connecting the camera to the raspberry pie was a challenge due to compatibility and outdated software. Working with bluetooth was also a challenge we had since none of us had worked with such technology before. We had to learn a lot through Youtube videos and Google searches. 
+
+We also did not expect how long it would take to figure out how to make all the wheels move in the same direction as well as the angles of the servos to move in the correct way. 
+
 
 ## Timeline
 
