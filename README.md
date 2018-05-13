@@ -1,14 +1,19 @@
-NB: You might find useful the [sample proposal](http://github.com/zamfi/ucb-jacobs-creative-programming-electronics-spring-2018/blob/master/hw/sample-proposal.md) useful in completing this assignment!
+# The RC Bull (You can't control me)
 
-# Your Project Title Here
-
-One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
+I propose to build an RC car that acts as a bull, where the user can control the animal’s
+movement and direction with a remote control, but when the vehicle reconginizes a specific color on the ground, all control of the vehicle is lost.
 
 ## Team
 
-A list of your team members here.
+John Melizanis, Kyle Brady, Mauricio Madrigal Avina
 
 ## Summary
+
+Our project is a controlled “Bull”, where the user can control the animal’s movement and direction with a remote control. However, once this animal sees the color “red” of any kind, the user loses all control and the bull charges after the color. Once the “Bull” reaches the color red, it stops charging and the user is then given full control of the vehicle. We tried to take the unique characteristics of an animal and apply them to something that is logical, digital, and unemotional. We took our electrical engineering classwork and used that knowledge to learn how to control, navigate, and automate a vehicle into something more than just a “vehicle”. Overall, viewers should be entertained with the project because they will have the opportunity to control something like a car, but also are able to connect to an animal that has emotions.
+
+The main goal of the project is to help people monitor their power usage over time and remotely access and turn on or off their devices if they don't need them. People will interact with the device in two ways: physically by plugging thing in and with a power switch on the device, as well as through the web page described above.
+
+
 
 Here, write a paragraph or two describing what you built for your final project and what was challenging. 
 
